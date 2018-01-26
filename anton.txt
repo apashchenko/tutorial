@@ -1,2 +1,2 @@
 Here's the text I want to put into my txt file.
-I should commit it, publish to github and afterwards view it from the gihub account.
+I should commit it, publish to github and afterwards view it from the github account.
